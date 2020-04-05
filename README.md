@@ -1,6 +1,9 @@
-# E09b-Lighting
+# E09b-Lighting excercise for MSCH220 Indiana University. Directions are below. 
 
-The purpose of this exercise is for you to explore 3D lighting and camera movement in Godot. There are many steps, and some of the concepts are a little complicated, so I would recommend that you stop and test frequently. I have tried to be as clear as possible.
+The purpose of this exercise is for you to explore 3D lighting and camera movement in Godot. 
+
+
+There are many steps, and some of the concepts are a little complicated, so I would recommend that you stop and test frequently. I have tried to be as clear as possible.
 
 This exercise is loosely based on the How to light a 3d scene in Godot (3d tutorial) by GDQuest. The YouTube video is
 [available here](https://www.youtube.com/watch?v=iamttSmxA2I).
